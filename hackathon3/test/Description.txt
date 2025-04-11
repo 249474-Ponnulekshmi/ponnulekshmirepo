@@ -1,0 +1,2 @@
+This folder contains the TEST Cases for Hackathon 3
+EMPLOYEE MANAGEMENT SYSTEM
