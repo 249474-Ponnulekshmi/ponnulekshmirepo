@@ -1,0 +1,2 @@
+This folder contains the output screenshots for Hackathon 3
+Completely tested on VS Code
