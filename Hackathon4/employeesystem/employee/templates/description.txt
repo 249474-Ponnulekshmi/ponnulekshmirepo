@@ -1,0 +1,5 @@
+TEMPLATES for django project
+  --------HTML Files------
+  -> emp_details.html -> Input for emp details
+  -> emp_out.html -> second page / displays name and net salary
+  -> jumble.html -> For jumble word game
